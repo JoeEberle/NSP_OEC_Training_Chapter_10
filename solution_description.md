@@ -138,3 +138,27 @@ The **management of shock** involves several key steps to stabilize the patient 
 
 Early recognition and prompt treatment are critical in managing shock and preventing further deterioration.
 
+## Key Terms 
+ 1. **Absence Seizure** - A type of seizure involving brief, sudden lapses in attention or consciousness, typically lasting only a few seconds, often without any warning signs. 
+  2. **Altered Mental Status** - A broad term describing a change in consciousness, behavior, or cognition, which may range from confusion and disorientation to coma. 
+  3. **Coma** - A state of prolonged unconsciousness where a person cannot be awakened, fails to respond to stimuli, and lacks normal wakefulness. 
+  4. **Delirium** - An acute, often fluctuating, state of confusion that involves a rapid change in brain function, typically caused by a medical illness or drug intoxication. 
+  5. **Dementia** - A group of symptoms associated with a decline in memory, reasoning, or other cognitive functions severe enough to interfere with daily life. 
+  6. **Anaphylactic Shock** - A severe, life-threatening allergic reaction that causes airway swelling, breathing difficulties, and a drop in blood pressure. 
+  7. **Anticoagulants** - Medications that help prevent blood clots by interfering with the blood's clotting process, commonly referred to as blood thinners. 
+  8. **Cardiogenic Shock** - A type of shock caused by the heart's inability to pump enough blood to meet the body's needs, often due to heart attack or heart failure. 
+  9. **Distributive Shock** - A form of shock caused by abnormal distribution of blood flow in the smallest blood vessels, often due to sepsis, anaphylaxis, or neurogenic causes. 
+  10. **Fainting** - A brief loss of consciousness typically caused by a temporary reduction in blood flow to the brain, also known as syncope. 
+  11. **Hypovolemic Shock** - A type of shock caused by severe blood or fluid loss, leading to inadequate circulation and oxygen delivery to the organs. 
+  12. **Neurogenic Shock** - A type of distributive shock resulting from a spinal cord injury that disrupts the normal regulation of blood vessel tone, leading to low blood pressure. 
+  13. **Obstructive Shock** - A form of shock caused by a physical obstruction to blood flow, such as in pulmonary embolism or cardiac tamponade. 
+  14. **Perfusion** - The process of delivering oxygen-rich blood to the tissues and organs throughout the body. 
+  15. **Peripheral Vascular Resistance** - The resistance to blood flow in the arteries, which contributes to blood pressure regulation. 
+  16. **Pulmonary Embolism** - A blockage in one of the pulmonary arteries in the lungs, usually caused by blood clots that travel from the legs or other parts of the body. 
+  17. **Sepsis** - A life-threatening condition caused by the body's extreme response to infection, leading to widespread inflammation and organ dysfunction. 
+  18. **Septic Shock** - A severe and potentially fatal condition caused by infection-induced sepsis that leads to dangerously low blood pressure and organ failure. 
+  19. **Shock** - A life-threatening condition where blood flow and oxygen supply to tissues and organs are severely reduced, leading to organ failure. 
+  20. **Stroke Volume** - The amount of blood pumped by the heart's left ventricle with each beat, a key component in determining cardiac output. 
+  21. **Tachycardia** - An abnormally fast heart rate, typically defined as a resting heart rate above 100 beats per minute. 
+  22. **Tachypnea** - Abnormally rapid breathing, often a response to low oxygen levels or other medical conditions. 
+ 
