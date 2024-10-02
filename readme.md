@@ -1,8 +1,8 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Nsp Oec Training Chapter 10 - NSP_OEC_Training_Chapter_10
-NSP_OEC_Training_Chapter_10
+# Nsp Oec Training Chapter 10 - National Ski Patrol - Outdoor Emergency Care chapter 10
+National Ski Patrol - Outdoor Emergency Care chapter 10
 
 ![Image image_filename](code.png)
 
