@@ -178,11 +178,8 @@ To get started with the **Nsp Oec Training Chapter 10** solution repository, fol
  ![additional_image](decompensated_shock.png)  <br>![additional_image](NSP_OEC_Training_Chapter_10.png)  <br>![additional_image](physiology_of_shock.png)  <br>![additional_image](types_of_shock.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
