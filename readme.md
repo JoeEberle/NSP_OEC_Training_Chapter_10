@@ -141,7 +141,7 @@ Early recognition and prompt treatment are critical in managing shock and preven
 ## Key Terms 
  1. **Absence Seizure** - A type of seizure involving brief, sudden lapses in attention or consciousness, typically lasting only a few seconds, often without any warning signs. 
   2. **Altered Mental Status** - A broad term describing a change in consciousness, behavior, or cognition, which may range from confusion and disorientation to coma. 
- ![Image image_filename](sample.png)
+ ![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
