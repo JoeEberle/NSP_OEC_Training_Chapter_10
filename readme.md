@@ -4,7 +4,25 @@
 
 ## National Ski Patrol - Outdoor Emergency Care chapter 10
 
-    ![Image image_filename](code.png)
+    
+![Solution](code.png)
+
+    
+## Table of Contents
+
+- [Solution Overview](#solution-overview)
+- [Who will use this ?](#who-can-use)
+- [Advantages of Using](#advantages-of-using)
+- [Return on Investment (ROI)](#return-on-investment-roi)
+- [How it Works](#how-it-works)
+- [Conclusion](#conclusion)
+- [Getting Started](#getting-started)
+- [Solution Features](#solution-features)
+- [Code Features](#code-features)
+- [Deliverables or Figures](#deliverables-or-figures)
+- [Contact Information](#contact-information)
+
+
 
 ## Chapter 10: Shock
 
@@ -147,7 +165,13 @@ Early recognition and prompt treatment are critical in managing shock and preven
 ## Key Terms 
  1. **Absence Seizure** - A type of seizure involving brief, sudden lapses in attention or consciousness, typically lasting only a few seconds, often without any warning signs. 
   2. **Altered Mental Status** - A broad term describing a change in consciousness, behavior, or cognition, which may range from confusion and disorientation to coma. 
- ![Image image_filename](code.png)![Image image_filename](sample.png)
+ 
+![Solution](code.png)
+
+    
+![Solution](code.png)
+
+    
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
