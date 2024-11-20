@@ -23,11 +23,11 @@
 
 ## 10.1 Define shock.
 
-**Shock** is a life-threatening medical condition in which the bodyâ€™s tissues and organs do not receive an adequate supply of **oxygenated blood**, leading to cellular damage and organ failure. Shock can result from various causes, such as severe bleeding, dehydration, heart problems, infections, or trauma. If left untreated, shock can rapidly worsen and become fatal.
+**Shock** is a life-threatening medical condition in which the body’s tissues and organs do not receive an adequate supply of **oxygenated blood**, leading to cellular damage and organ failure. Shock can result from various causes, such as severe bleeding, dehydration, heart problems, infections, or trauma. If left untreated, shock can rapidly worsen and become fatal.
 
 ### **Types of Shock**:
 1. **Hypovolemic Shock**: Caused by a significant loss of blood or fluids (e.g., from trauma or dehydration).
-2. **Cardiogenic Shock**: Results from the heartâ€™s inability to pump sufficient blood (e.g., after a heart attack or heart failure).
+2. **Cardiogenic Shock**: Results from the heart’s inability to pump sufficient blood (e.g., after a heart attack or heart failure).
 3. **Distributive Shock**: Caused by abnormal distribution of blood flow, as in **septic shock** (infection), **anaphylactic shock** (severe allergic reaction), or **neurogenic shock** (damage to the nervous system).
 4. **Obstructive Shock**: Results from a physical obstruction of blood flow, such as in a **pulmonary embolism** or **tension pneumothorax**.
 
@@ -77,7 +77,7 @@ These three types of shock (hypovolemic, cardiogenic, and distributive) represen
 
 ## 10.3 Describe how the body compensates for shock.
 
-When the body enters **shock**, it initiates several **compensatory mechanisms** to maintain blood flow to vital organs and prevent further deterioration. These mechanisms are the bodyâ€™s way of attempting to restore adequate circulation and oxygen delivery. Key compensatory responses include:
+When the body enters **shock**, it initiates several **compensatory mechanisms** to maintain blood flow to vital organs and prevent further deterioration. These mechanisms are the body’s way of attempting to restore adequate circulation and oxygen delivery. Key compensatory responses include:
 
 ### 1. **Increased Heart Rate (Tachycardia)**:
    - The **heart rate increases** to pump more blood in an attempt to maintain adequate cardiac output and blood pressure, ensuring that oxygen reaches vital organs.
@@ -99,16 +99,16 @@ These compensatory mechanisms are temporary and may help stabilize the patient i
 
 ## 10.4 Define the two stages of shock.
 
-1. **Compensated Shock**: The early stage of shock where the bodyâ€™s compensatory mechanisms (e.g., increased heart rate and vasoconstriction) maintain adequate blood pressure and perfusion to vital organs.
+1. **Compensated Shock**: The early stage of shock where the body’s compensatory mechanisms (e.g., increased heart rate and vasoconstriction) maintain adequate blood pressure and perfusion to vital organs.
 
-2. **Decompensated Shock**: The later stage of shock where the bodyâ€™s compensatory mechanisms begin to fail, resulting in a drop in blood pressure, poor perfusion, and inadequate oxygen delivery to tissues and organs, leading to life-threatening conditions.
+2. **Decompensated Shock**: The later stage of shock where the body’s compensatory mechanisms begin to fail, resulting in a drop in blood pressure, poor perfusion, and inadequate oxygen delivery to tissues and organs, leading to life-threatening conditions.
 
 
 ## 10.5 List the four major types of shock.
 
 ### **Types of Shock**:
 1. **Hypovolemic Shock**: Caused by a significant loss of blood or fluids (e.g., from trauma or dehydration).
-2. **Cardiogenic Shock**: Results from the heartâ€™s inability to pump sufficient blood (e.g., after a heart attack or heart failure).
+2. **Cardiogenic Shock**: Results from the heart’s inability to pump sufficient blood (e.g., after a heart attack or heart failure).
 3. **Distributive Shock**: Caused by abnormal distribution of blood flow, as in **septic shock** (infection), **anaphylactic shock** (severe allergic reaction), or **neurogenic shock** (damage to the nervous system).
 4. **Obstructive Shock**: Results from a physical obstruction of blood flow, such as in a **pulmonary embolism** or **tension pneumothorax**.
 
@@ -125,7 +125,7 @@ The **classic signs and symptoms of shock** include:
 6. **Confusion, anxiety, or restlessness**
 7. **Nausea or vomiting**
 8. **Dizziness or fainting**
-9. **Low blood pressure** (hypotension) â€“ often a late sign
+9. **Low blood pressure** (hypotension) – often a late sign
 10. **Decreased or no urine output**
 
 These symptoms indicate that the body is not receiving enough oxygenated blood, requiring immediate medical intervention.
@@ -141,7 +141,7 @@ The **management of shock** involves several key steps to stabilize the patient 
 3. **Control bleeding**: If the shock is due to trauma or bleeding, apply **direct pressure** to stop external bleeding.
 4. **Position the patient**: Lay the patient **flat on their back** and elevate the legs (if no spinal injury) to improve blood flow to vital organs.
 5. **Keep the patient warm**: Cover the patient with a **blanket** to prevent hypothermia, as shock can cause the body to lose heat.
-6. **Monitor vital signs**: Regularly check the patientâ€™s pulse, breathing, and mental status while waiting for emergency help.
+6. **Monitor vital signs**: Regularly check the patient’s pulse, breathing, and mental status while waiting for emergency help.
 7. **Provide reassurance**: Keep the patient calm and reassured to reduce stress and anxiety, which can worsen shock.
 8. **Call for emergency medical help**: Early intervention is crucial, so call **911** or emergency services immediately.
 
@@ -156,24 +156,4 @@ Early recognition and prompt treatment are critical in managing shock and preven
     
 ![Solution](code.png)
 
-    
-## Getting Started
-
-The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
-
-To get started with the **Nsp Oec Training Chapter 10** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
-    
-## List of Figures
- ![additional_image](decompensated_shock.png)  <br>![additional_image](NSP_OEC_Training_Chapter_10.png)  <br>![additional_image](physiology_of_shock.png)  <br>![additional_image](types_of_shock.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
     
